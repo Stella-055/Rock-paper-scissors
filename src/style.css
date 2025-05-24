@@ -71,7 +71,7 @@ nav div{
 }
 .emojis{
   display: flex;
-  gap: 1rem;
+  gap: .8rem;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
