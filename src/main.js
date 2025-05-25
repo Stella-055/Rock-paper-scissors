@@ -61,3 +61,5 @@ function determineWinner() {
     }
   }
 }
+
+document.addEventListener('contextmenu', event => event.preventDefault());
